@@ -21,4 +21,4 @@ This repo includes the following files:
 1. This README.md file
 2. run_analysis.R , the script to get and clean provided data
 3. tidy_data.txt , the output tidy data file
-4. CodeBook.md explaining
+4. CodeBook.md explaining raw data parameters and variables
